@@ -19,4 +19,5 @@
 - **Antenna Pattern Tauri:** 이 저장소에서 배포합니다. [소스 저장소 (비공개)](https://github.com/ANSungnam/antenna_pattern_tauri)
 - **Antenna Pattern:** 기존 Windows 프로그램입니다. [기존 프로그램 다운로드](https://github.com/ANSungnam/antenna_pattern_release/releases/latest)
 
-이 저장소에는 비공개 소스 코드, 측정 원본 파일, 자격 증명을 포함하지 않습니다. 이전 저장소의 Tauri 다운로드 링크는 과거 배포 기록으로 유지됩니다.
+이 저장소에는 비공개 소스 코드, 측정 원본 파일, 자격 증명을 포함하지 않습니다. 기존 저장소에 중복되었던 Tauri 릴리즈는 정리되었으며, Tauri 다운로드는 이 저장소를 이용하세요.
+
