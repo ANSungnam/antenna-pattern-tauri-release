@@ -1,8 +1,8 @@
-# Antenna Pattern Tauri — 다운로드
+# antenna-pattern-tauri — 다운로드
 
 **Tauri 기반 Windows 데스크톱 앱과 Ubuntu 웹 서버 전용 배포 저장소입니다.**
 
-[최신 Tauri 버전 다운로드](https://github.com/ANSungnam/antenna_pattern_tauri_release/releases/latest) · [v0.01.00](https://github.com/ANSungnam/antenna_pattern_tauri_release/releases/tag/v0.01.00)
+[최신 Tauri 버전 다운로드](https://github.com/ANSungnam/antenna-pattern-tauri-release/releases/latest) · [v0.01.00](https://github.com/ANSungnam/antenna-pattern-tauri-release/releases/tag/v0.01.00)
 
 | 파일 | 용도 |
 |---|---|
@@ -16,7 +16,7 @@
 
 ## 기존 Antenna Pattern과 구분
 
-- **Antenna Pattern Tauri:** 이 저장소에서 배포합니다. [소스 저장소 (비공개)](https://github.com/ANSungnam/antenna_pattern_tauri)
+- **Antenna Pattern Tauri:** 이 저장소에서 배포합니다. [소스 저장소 (비공개)](https://github.com/ANSungnam/antenna-pattern-tauri)
 - **Antenna Pattern:** 기존 Windows 프로그램입니다. [기존 프로그램 다운로드](https://github.com/ANSungnam/antenna_pattern_release/releases/latest)
 
 이 저장소에는 비공개 소스 코드, 측정 원본 파일, 자격 증명을 포함하지 않습니다. 기존 저장소에 중복되었던 Tauri 릴리즈는 정리되었으며, Tauri 다운로드는 이 저장소를 이용하세요.

@@ -1,5 +1,5 @@
 {
-  "project": "Antenna Pattern Tauri",
+  "project": "antenna-pattern-tauri",
   "version": "v0.01.00",
   "source_commit": "d9ea6158bf02d0ff486f93a89e47cffb5cf9065a",
   "release_tag": "v0.01.00",
@@ -31,5 +31,5 @@
       "sha256": "e316f55c2fb92fe5c17718ac1fa90d5393a7d57f73f5b57395dbc6aa2cce2590"
     }
   ],
-  "source_repository": "ANSungnam/antenna_pattern_tauri"
+  "source_repository": "ANSungnam/antenna-pattern-tauri"
 }
