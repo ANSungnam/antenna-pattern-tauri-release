@@ -1,0 +1,3 @@
+01db4203cfeee320de3cc6992eb268615d5344da5cde576f615f3364063332ad  antenna-pattern-tauri-v0.1.1.exe
+dfb9119eaeb8ac7bd31366d1598f8150c8b7951b47fbe9847ad794b3d20fe08d  antenna-pattern-tauri-v0.1.1-windows-x64.zip
+942562fe1ecabe4264f892f7f622365b061d8f91c47eb77aa04b3a5705efa6bb  antenna-pattern-v0.1.1-ubuntu24.04-x86_64.tar.gz
